@@ -25,9 +25,6 @@ A cute productivity application built with React and Vite.
 - CSS3
 - JavaScript (ES6)
 
-## Screenshots
-
-...
 
 ## Installation
 
